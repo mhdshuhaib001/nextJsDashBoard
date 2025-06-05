@@ -3,12 +3,11 @@
 const users = [
   {
     id: '410544b2-4001-4271-9855-fec4b6a6442a',
-    name: 'User',
-    email: 'user@nextmail.com',
+    name: 'Shuhaib',
+    email: 'shuhaib@gmail.com',
     password: '123456',
   },
 ];
-
 const customers = [
   {
     id: 'd6e15727-9fe1-4961-8c5b-ea44a9bd81aa',
@@ -42,7 +41,7 @@ const customers = [
   },
   {
     id: '13D07535-C59E-4157-A011-F8D2EF4E0CBB',
-    name: 'Balazs Orban',
+    name: 'Invoices',
     email: 'balazs@orban.com',
     image_url: '/customers/balazs-orban.png',
   },
